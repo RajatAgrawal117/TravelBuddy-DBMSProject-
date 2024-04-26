@@ -20,6 +20,14 @@ This is a Django project for a travel website that uses Bootstrap for the fronte
 6. Run database migrations: `python manage.py migrate`
 7. Start the development server: `python manage.py runserver`
 
+##UI Preview
+![WhatsApp Image 2024-04-21 at 15 39 46_045c86c9](https://github.com/RajatAgrawal117/TravelBuddy-DBMSProject-/assets/69640292/ad21bdc8-031f-4a1b-b216-ebb5658486c2)
+![WhatsApp Image 2024-04-22 at 10 31 54_2fda848a](https://github.com/RajatAgrawal117/TravelBuddy-DBMSProject-/assets/69640292/99e8d75c-6bef-4071-b7dd-ca0766be938b)
+
+##Django Admin Panel Preview
+![WhatsApp Image 2024-04-21 at 15 41 03_9795568a](https://github.com/RajatAgrawal117/TravelBuddy-DBMSProject-/assets/69640292/b0de438d-1e71-4a12-86a7-30755da83a1b)
+
+
 ## Usage
 
 1. Open your web browser and go to `http://localhost:8000`
